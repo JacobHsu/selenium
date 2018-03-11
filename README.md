@@ -6,6 +6,10 @@
 
 `chromedriver.exe`的執行檔，放在`C:\selenium_driver_chrome\chromedriver.exe`  
 
+# Selenium with Python
+
+[Locating Elements](http://selenium-python.readthedocs.io/locating-elements.html)  
+
 # Python
 
 下載 [Python](https://www.python.org/)
